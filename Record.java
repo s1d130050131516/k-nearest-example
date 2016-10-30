@@ -3,8 +3,6 @@ public class Record {
 	public int x2;
 	public String className;
 
-	Record () {}
-
 	Record (int x1, int x2, String className) {
 		this.x1 = x1;
 		this.x2 = x2;
